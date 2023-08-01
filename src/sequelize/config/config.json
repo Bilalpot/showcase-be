@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123123",
+    "database": "showcase",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql",
+    "logging": false,
+    "seederStorage": "sequelize"
+  }
+}
